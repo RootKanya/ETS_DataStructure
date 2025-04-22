@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\.cphcsrun.csproj": {}
+    "C:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\.cphcsrun.csproj": {}
   },
   "projects": {
-    "c:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\.cphcsrun.csproj": {
+    "C:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\.cphcsrun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\.cphcsrun.csproj",
+        "projectUniqueName": "C:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\.cphcsrun.csproj",
         "projectName": ".cphcsrun",
-        "projectPath": "c:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\.cphcsrun.csproj",
+        "projectPath": "C:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\.cphcsrun.csproj",
         "packagesPath": "C:\\Users\\RootKanya\\.nuget\\packages\\",
-        "outputPath": "c:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\obj\\",
+        "outputPath": "C:\\BearKuliahSem02\\ds\\ETS\\06\\.cphcsrun\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RootKanya\\AppData\\Roaming\\NuGet\\NuGet.Config"
