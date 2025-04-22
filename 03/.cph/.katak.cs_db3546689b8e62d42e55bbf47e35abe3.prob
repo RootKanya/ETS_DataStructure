@@ -1,0 +1,1 @@
+{"name":"Local: katak","url":"c:\\BearKuliahSem02\\ds\\ETS\\03\\katak.cs","tests":[{"id":1745292480428,"input":"-4 -3 -2 0 1 5 7 9\n1","output":""},{"id":1745292528090,"input":"1 2 3 4 5 6\n9\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\BearKuliahSem02\\ds\\ETS\\03\\katak.cs","group":"local","local":true}

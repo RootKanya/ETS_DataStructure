@@ -1,0 +1,14 @@
+c:\BearKuliahSem02\ds\ETS\05\palindrom_bin\.cphcsrun.exe
+c:\BearKuliahSem02\ds\ETS\05\palindrom_bin\.cphcsrun.deps.json
+c:\BearKuliahSem02\ds\ETS\05\palindrom_bin\.cphcsrun.runtimeconfig.json
+c:\BearKuliahSem02\ds\ETS\05\palindrom_bin\.cphcsrun.dll
+c:\BearKuliahSem02\ds\ETS\05\palindrom_bin\.cphcsrun.pdb
+c:\BearKuliahSem02\ds\ETS\05\.cphcsrun\obj\Release\net9.0\.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+c:\BearKuliahSem02\ds\ETS\05\.cphcsrun\obj\Release\net9.0\.cphcsrun.AssemblyInfoInputs.cache
+c:\BearKuliahSem02\ds\ETS\05\.cphcsrun\obj\Release\net9.0\.cphcsrun.AssemblyInfo.cs
+c:\BearKuliahSem02\ds\ETS\05\.cphcsrun\obj\Release\net9.0\.cphcsrun.csproj.CoreCompileInputs.cache
+c:\BearKuliahSem02\ds\ETS\05\.cphcsrun\obj\Release\net9.0\.cphcsrun.dll
+c:\BearKuliahSem02\ds\ETS\05\.cphcsrun\obj\Release\net9.0\refint\.cphcsrun.dll
+c:\BearKuliahSem02\ds\ETS\05\.cphcsrun\obj\Release\net9.0\.cphcsrun.pdb
+c:\BearKuliahSem02\ds\ETS\05\.cphcsrun\obj\Release\net9.0\.cphcsrun.genruntimeconfig.cache
+c:\BearKuliahSem02\ds\ETS\05\.cphcsrun\obj\Release\net9.0\ref\.cphcsrun.dll

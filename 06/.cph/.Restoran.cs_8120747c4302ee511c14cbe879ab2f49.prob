@@ -1,0 +1,1 @@
+{"name":"Local: Restoran","url":"c:\\BearKuliahSem02\\ds\\ETS\\06\\Restoran.cs","tests":[{"id":1745293640433,"input":"5 3\nAyam 3\nBebek 2\nBayam 2\nTelur 1\nMie 4\nBebek\nTelur\nAyam","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\BearKuliahSem02\\ds\\ETS\\06\\Restoran.cs","group":"local","local":true}

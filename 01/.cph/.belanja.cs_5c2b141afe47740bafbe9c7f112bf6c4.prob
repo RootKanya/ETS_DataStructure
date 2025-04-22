@@ -1,0 +1,1 @@
+{"name":"Local: belanja","url":"c:\\BearKuliahSem02\\ds\\ETS\\01\\belanja.cs","tests":[{"id":1745291911450,"input":"7\nBELI GUMMY\nBELI CHOCO\nCARI CHOCO\nBELI POP\nKELUAR POP\nCARI POP\nPRINT\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\BearKuliahSem02\\ds\\ETS\\01\\belanja.cs","group":"local","local":true}
